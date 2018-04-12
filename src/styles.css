@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btn {
+    width: 250px;
+    height: 44px;
+    border-radius: 0;
+    outline: 0;
+    background-color: rgb(195, 0, 47);
+    color: #FFFFFF;
+    border: 0;
+    border-bottom: 2px solid #444;
+    font-size: 16px;
+    font-weight: bold;
+}
